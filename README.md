@@ -9,7 +9,7 @@
 </p>
 
 <h2 align="center">
-  👨‍💻 About Me
+  About Me
 </h2>
 
 - 💈 Criando sistema de barbearia
