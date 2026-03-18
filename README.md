@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="(https://github.com/user-attachments/assets/e69a3b21-47ae-493a-9b86-934556235f1d)" width="100%" alt="banner"/>
+  <img src="https://github.com/user-attachments/assets/e69a3b21-47ae-493a-9b86-934556235f1d" width="100%" alt="banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Daniel</h1>
@@ -18,7 +18,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"> Skills
+## <img src="https://media.lordicon.com/icons/wired/flat/742-code.gif" width="30"> Skills
 
 ### 💻 Programming Languages:
 <p>
