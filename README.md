@@ -10,7 +10,9 @@
 
 ---
 
-## 👨‍💻 About Me
+<p align="center">
+  👨‍💻 About Me
+</p>
 
 - 💈 Criando sistema de barbearia
 - 🌐 Foco em web development
@@ -18,7 +20,7 @@
 
 ---
 
-<h2 align="left">
+<h2 align="center">
   <img src="https://github.com/user-attachments/assets/abcf926c-af47-458e-8da5-7b9313a12796" width="28" style="vertical-align: middle; margin-right: 8px;">
   Skills
 </h2>
