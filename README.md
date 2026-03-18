@@ -8,9 +8,9 @@
   💻 Full-Stack Developer
 </p>
 
-<p align="center">
+<h2 align="center">
   👨‍💻 About Me
-</p>
+</h2>
 
 - 💈 Criando sistema de barbearia
 - 🌐 Foco em web development
