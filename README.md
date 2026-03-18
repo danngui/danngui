@@ -18,7 +18,7 @@
 
 ---
 
-## <img src="https://media.lordicon.com/icons/wired/flat/742-code.gif" width="30"> Skills
+## <img src="https://github.com/user-attachments/assets/abcf926c-af47-458e-8da5-7b9313a12796" width="30"> Skills
 
 ### 💻 Programming Languages:
 <p>
