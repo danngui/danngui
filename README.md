@@ -18,7 +18,10 @@
 
 ---
 
-## <img src="https://github.com/user-attachments/assets/abcf926c-af47-458e-8da5-7b9313a12796" width="30"> Skills
+<h2 align="left">
+  <img src="https://github.com/user-attachments/assets/abcf926c-af47-458e-8da5-7b9313a12796" width="30" style="vertical-align: middle;">
+  Skills
+</h2>
 
 ### 💻 Programming Languages:
 <p>
