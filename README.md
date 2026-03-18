@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1200x400](https://media.discordapp.net/attachments/1052211508794368023/1483920505907183716/unnamed_1.jpg?ex=69bc582a&is=69bb06aa&hm=112fc4f29a0a77996fc30f1ca23d6ae51428b828fe45b72708f55b07b93696fb&=&format=webp&width=1318&height=281)" alt="banner" />
+  <img src="(https://github.com/user-attachments/assets/e69a3b21-47ae-493a-9b86-934556235f1d)" width="100%" alt="banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Daniel</h1>
@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Skills
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"> Skills
 
 ### 💻 Programming Languages:
 <p>
