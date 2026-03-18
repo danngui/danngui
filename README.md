@@ -2,7 +2,10 @@
   <img src="https://github.com/user-attachments/assets/e69a3b21-47ae-493a-9b86-934556235f1d" width="100%" alt="banner"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Daniel</h1>
+<h1 align="center">
+  Hi <img src="https://github.com/user-attachments/assets/ced6cf03-bf56-40c8-b7ee-87b979c80b40" width="30">, I'm 
+  <a href="https://github.com/danngui">Daniel</a>
+</h1>
 
 <p align="center">
   Full-Stack Developer
