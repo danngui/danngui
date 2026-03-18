@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 
 <p align="center">
-  💻 Full-Stack Developer
+  Full-Stack Developer
 </p>
 
 <h2 align="center">
